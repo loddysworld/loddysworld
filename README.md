@@ -12,10 +12,21 @@
 -  <b>Creating an Azure Cloud Environment</b>
     - [Site down due to cost but here's my Technical Brief](https://docs.google.com/document/d/1QacxLAkHZJ4vAGdhGFZ_lXcxJKwpZJPaLlNocIT2zlg/edit?usp=sharing)
 
+<h2>👨‍💻 IAM Projects:</h2>
 
+- <b>Creating an Active Directory Domain Server</b>
 
+<h2>👨‍💻 Software Development Projects and Activities:</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+  - <b><a href="https://bbc-its-haj.glitch.me">1. BBC</a></b>
+    - [Code](https://glitch.com/edit/#!/bbc-its-haj)
+  - <b><a href="https://decisive-spectrum-joke.glitch.me">2. Khan Academy</a></b>
+    - [Code](https://glitch.com/edit/#!/decisive-spectrum-joke)
+  - <b><a href="https://techcrunchforhaj.glitch.me">3. Techcrunch</a></b>
+    - [Code](https://glitch.com/edit/#!/techcrunchforhaj)
+  -  <b><a href="https://rapid-wise-spade.glitch.me">4. Leon and Friends</a></b>
+    -[Code](https://glitch.com/edit/#!/rapid-wise-spade)
+
 
 <h2> 🤳 Connect with me:</h2>
 
