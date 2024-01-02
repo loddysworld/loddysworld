@@ -13,6 +13,8 @@
     - [Site down due to cost but here's my Technical Brief](https://docs.google.com/document/d/1QacxLAkHZJ4vAGdhGFZ_lXcxJKwpZJPaLlNocIT2zlg/edit?usp=sharing)
 - <b> Creating a Web Scraper with Node.js</b>
     - [Web Scraper](https://github.com/loddysworld/Web-Scraper)
+- <b> Keylogger with Python</b>
+    - [Keylogger](https://github.com/loddysworld/KeyLogger)
 
 <h2>👨‍💻 Software Development Projects and Activities:</h2>
 
