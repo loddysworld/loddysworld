@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hajji!  <a href="www.linkedin.com/in/hajjisuttles">Cybersecurity/IAM Professional</a>, <br/><a href="https://github.com/loddysworld">and Aspiring Software Engineer</a></h1>
+<h1>Hi, I'm Hajji!  <a href="www.linkedin.com/in/hajjisuttles">Cybersecurity/IAM Professional</a>, <br/><a href="https://github.com/loddysworld">and Aspiring Cloud Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
