@@ -25,7 +25,7 @@
   - <b><a href="https://techcrunchforhaj.glitch.me">3. Techcrunch</a></b>
     - [Code](https://glitch.com/edit/#!/techcrunchforhaj)
   -  <b><a href="https://rapid-wise-spade.glitch.me">4. Leon and Friends</a></b>
-    -[Code](https://glitch.com/edit/#!/rapid-wise-spade)
+    - [Code](https://glitch.com/edit/#!/rapid-wise-spade)
 
 
 <h2> 🤳 Connect with me:</h2>
