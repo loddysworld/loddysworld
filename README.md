@@ -14,7 +14,11 @@
 - <b> Creating a Web Scraper with Node.js</b>
     - [Web Scraper](https://github.com/loddysworld/Web-Scraper)
 - <b> Keylogger with Python</b>
-    - [Keylogger](https://github.com/loddysworld/KeyLogger)
+    - [Keylogger](https://github.com/loddysworld/KeyLogger)</b>
+ 
+<h2>👨‍💻 IAM Projects:</h2>
+- <b>Creating Azure Entra-ID Identities</b>
+  - (https://github.com/loddysworld/Managing-Microsoft-Entra-ID-Identities.git)</b>
 
 <h2>👨‍💻 Software Development Projects and Activities:</h2>
 
