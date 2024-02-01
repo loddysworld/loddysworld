@@ -15,10 +15,13 @@
     - [Web Scraper](https://github.com/loddysworld/Web-Scraper)
 - <b> Keylogger with Python</b>
     - [Keylogger](https://github.com/loddysworld/KeyLogger)</b>
+- <b> SQL Tutorial</b>
+    - [SQL Tutorial](https://github.com/loddysworld/SQL-Tutorial)</b>
  
 <h2>👨‍💻 IAM Projects:</h2>
+
 - <b>Creating Azure Entra-ID Identities</b>
-  - (https://github.com/loddysworld/Managing-Microsoft-Entra-ID-Identities.git)</b>
+  - [Entra-ID](https://github.com/loddysworld/Managing-Microsoft-Entra-ID-Identities)</b>
 
 <h2>👨‍💻 Software Development Projects and Activities:</h2>
 
