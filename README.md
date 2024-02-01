@@ -20,7 +20,7 @@
  
 <h2>👨‍💻 IAM Projects:</h2>
 
-- <b>Creating Azure Entra-ID Identities</b>
+- <b>Azure</b>
   - [Entra-ID](https://github.com/loddysworld/Managing-Microsoft-Entra-ID-Identities)</b>
 
 <h2>👨‍💻 Software Development Projects and Activities:</h2>
